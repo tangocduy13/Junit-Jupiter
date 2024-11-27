@@ -1,0 +1,4 @@
+DROP DATABASE hibernate_practice_t06_db;
+CREATE DATABASE hibernate_practice_t06_db;
+USE hibernate_practice_t06_db;
+GO
